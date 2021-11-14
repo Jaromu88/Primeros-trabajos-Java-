@@ -1,0 +1,11 @@
+1. La estación meteorológica de Miranda del Camino, ha recogido los datos diarios de precipitaciones del mes de  Abril en milímetros cúbicos. Queremos obtener que día del mes ha tenido el máximo valor, cuantos días ha llovido y cual es el total de las precipitaciones caídas a lo largo del mes.
+Ejemplo de ejecución:
+
+Día 1º  mm: 23.4
+Día 2º  mm: 10.2
+Día 3º  mm:  0.0
+. . .
+Día 30º mm: 0.0
+Día con más precipitaciones       :   20 de Abril con 152,6 milímetros
+Día con precipitaciones > 0       :   15 días
+Total de precipitaciones recogidas:  534.7 milímetros    
